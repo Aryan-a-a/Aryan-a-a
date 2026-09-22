@@ -48,8 +48,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,cs,java,c,cpp,html,css,react,vite,tailwind,dotnet,fastapi,pytorch,tensorflow,unity,arduino,azure,gcp,firebase,docker,linux,git,github&perline=9&theme=dark">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,cs,java,c,cpp,html,css,react,vite,tailwind,dotnet,fastapi,pytorch,tensorflow,unity,arduino,azure,gcp,firebase,docker,linux,git,github&perline=9&theme=light" alt="TypeScript, JavaScript, Python, C#, Java, C, C++, HTML, CSS, React, Vite, Tailwind, .NET, FastAPI, PyTorch, TensorFlow, Unity, Arduino, Azure, Google Cloud, Firebase, Docker, Linux, Git, GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Ccs%2Cjava%2Cc%2Ccpp%2Chtml%2Ccss%2Creact%2Cvite%2Ctailwind%2Cdotnet%2Cfastapi%2Cpytorch%2Ctensorflow%2Cunity%2Carduino%2Cazure%2Cgcp%2Cfirebase%2Cdocker%2Clinux%2Cgit%2Cgithub&perline=9&theme=dark">
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Ccs%2Cjava%2Cc%2Ccpp%2Chtml%2Ccss%2Creact%2Cvite%2Ctailwind%2Cdotnet%2Cfastapi%2Cpytorch%2Ctensorflow%2Cunity%2Carduino%2Cazure%2Cgcp%2Cfirebase%2Cdocker%2Clinux%2Cgit%2Cgithub&perline=9&theme=light" alt="TypeScript, JavaScript, Python, C#, Java, C, C++, HTML, CSS, React, Vite, Tailwind, .NET, FastAPI, PyTorch, TensorFlow, Unity, Arduino, Azure, Google Cloud, Firebase, Docker, Linux, Git, GitHub" />
   </picture>
 </p>
 
@@ -59,8 +59,8 @@
 <h2 align="center">Featured Projects</h2>
 
 <table align="center">
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🌉 [Bridge](https://github.com/Aryan-a-a/Bridge)
 Peer-to-peer food and clothing donation platform built at GDG Hacks, now an early-stage startup. Snap a photo and Gemini Vision turns it into an item list, then volunteer drivers deliver with live tracking and in-app chat.
@@ -69,18 +69,18 @@ Peer-to-peer food and clothing donation platform built at GDG Hacks, now an earl
 
 [Live demo](https://helper-495902.web.app)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### ✋ [ASL Detection](https://github.com/Aryan-a-a/ASL-Detection-Program)
 Real-time American Sign Language detection from a live video feed, classifying 10 signs at 85%+ accuracy. Trained on a 1,500-image dataset I labelled with LabelImg.
 
 `Python` `PyTorch` `TensorFlow` `YOLOv8` `Jupyter`
 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
 
 ### 🌐 [Portfolio](https://github.com/Aryan-a-a/Aryan-a-a.github.io)
 Single-page personal site in plain HTML and CSS. No frameworks, no build step, built to WCAG 2.1 AA.
@@ -89,8 +89,8 @@ Single-page personal site in plain HTML and CSS. No frameworks, no build step, b
 
 [Visit aryanashraf.com](https://aryanashraf.com)
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <br>

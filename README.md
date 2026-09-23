@@ -19,12 +19,6 @@
 
 🔬 Previously a **Research Assistant in ML and Assistive Devices** at Guelph
 
-🛠️ Building **Bridge** (a donation platform with AI photo listings), a real-time **ASL detection** model, and my **portfolio site**
-
-🎯 Looking for **Summer 2027 SWE internships** in Canada and the US
-
-📍 Guelph, Ontario
-
 </div>
 
 <br>

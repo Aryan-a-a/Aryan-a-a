@@ -4,8 +4,6 @@
   <img alt="Aryan Ashraf, Computer Engineer" src="art/header-light.png" width="100%">
 </picture>
 
-<h1 align="center">Hey there, I'm Aryan 👋</h1>
-
 <br>
 
 <!-- ===================== ABOUT ===================== -->
@@ -43,7 +41,7 @@
 <td width="50%" valign="top">
 
 ### 🌉 [Bridge](https://github.com/Aryan-a-a/Bridge)
-Peer-to-peer food and clothing donation platform built at GDG Hacks, now an early-stage startup. Snap a photo and Gemini Vision turns it into an item list, then volunteer drivers deliver with live tracking and in-app chat.
+Peer-to-peer food and clothing donation platform co-developed with [Aly](https://github.com/alyanany97) at GDG Hacks, now an early-stage startup. Snap a photo and Gemini Vision turns it into an item list, then volunteer drivers deliver with live tracking and in-app chat.
 
 `React` `TypeScript` `FastAPI` `Firestore` `Cloud Run` `Gemini Vision`
 
